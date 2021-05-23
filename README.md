@@ -14,7 +14,7 @@ Website Link:
 
 Screenshot of Site
 
-<img src="" width="300">
+<img src="https://github.com/mspierings96/team-profile-generator/blob/main/images/team-generator.jpg" width="300">
 
 
 Contribution
