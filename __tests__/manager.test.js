@@ -16,6 +16,6 @@ test ("Example Email", () => {
 });
 
 test ("Example Github", () => {
-    var testmanagerOffice = new manager("mitch", 86, "mitchell@yahoo.com", "115")
-    expect(testmanagerOffice.officeNumber).toBe(115);
+    var testmanagerOffice = new manager("mitch", 86, "mitchell@yahoo.com", "Office#-89")
+    expect(testmanagerOffice.officeNumber).toBe("Office#-89");
 });
