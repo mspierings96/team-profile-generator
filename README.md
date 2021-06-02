@@ -9,12 +9,13 @@ Built with:
 - HTML
 - Javascript
 
-Website Link: 
-
-
 Screenshot of Site
 
 <img src="https://github.com/mspierings96/team-profile-generator/blob/main/images/team-generator.jpg" width="300">
+
+Video Link:
+
+https://drive.google.com/file/d/1j7mhat6PfJ-zfuK1oquJtZxMfgW1VCbG/view
 
 
 Contribution
